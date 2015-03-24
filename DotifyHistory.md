@@ -1,0 +1,8 @@
+# History #
+The story began in 2006 with the _Braille In Daisy_ project. In that project, we attempted to include Braille in the Daisy Consortium family of formats. During a meeting in Stockholm in December 2006, ideas for a new Braille translator system based on XSL-FO was presented by SBS representatives. We all felt that the idea was worth investigating.
+
+Time went by, and when the moment came to develop these ideas, the _Braille In Daisy_ project had unfortunately come to a halt. The work was continued by the Swedish Library of Talking Books and Braille alone. As the first prototype evolved, many issues with XSL-FO surfaced. The concept was holding up, but stretching XSL-FO to the task felt more than a little strained. For example, the output of Apache FOP was far from ideal for text only rendering, and contained many measurements and units that could not be ignored yet provided little benefit for the intended product. Hence, XSL-FO was abandoned, but the vision for the design stayed with us as we developed a new formatting language for text only media, and later specifically for Braille.
+
+For the sake of collaboration, the code for Dotify was kept in the Daisy Pipeline repository as a so called _transformer_. However, we later realized that the code has grown far beyond the scope of a simple transformer, and moved the code here in early 2011 (shortly after the system was dubbed **Dotify**).
+
+The legacy of the days as a Daisy Pipeline transformer is still evident in some places, but Dotify is getting more and more independent each day.

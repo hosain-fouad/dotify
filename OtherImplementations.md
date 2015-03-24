@@ -1,0 +1,4 @@
+# Relation to other implementations #
+It is not our intention to compete with other Braille system implementations, such as Liblouis, and re-invent the wheel. Instead, we would like to involve the people behind Liblouis and other Braille system software in talks on how communication between these implementations can be established.
+
+The reason for this is that we feel that it would greatly benefit the Braille community in the long run if we were to define and agree on some Braille software components and/or system files and formats to be shared between implementations. Doing so would, over time, provide better Braille quality and software experience to our users and also the freedom to migrate between implementations as needed (for example, due to technology shifts in an organization).

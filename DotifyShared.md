@@ -1,0 +1,2 @@
+# Introduction #
+The DotifyShared repository project acts as a poor man's dependency management. Eventually we might get the fancy stuff such as Maven or Ivy, but in the meantime, this will have to do. Just be sure to check out this project too.
